@@ -39,7 +39,7 @@ Construit avec **React + Vite + TypeScript + Tailwind + shadcn/ui + Framer Motio
 
 ```bash
 # Cloner le projet
-git clone https://github.com/<ton-user>/speedrun-50-femmes.git
+git clone https://github.com/1nis/speedrun-50-femmes.git
 cd speedrun-50-femmes
 
 # Installer les dépendances
